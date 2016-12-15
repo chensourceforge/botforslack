@@ -1,0 +1,17 @@
+{
+  "name": "slackapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/run"
+  },
+  "dependencies": {
+    "superagent": "latest",
+    "@slack/client": "latest",
+    "node-wit": "latest",
+    "body-parser": "latest",
+    "plotly": "latest",
+    "cloudinary": "latest",
+    "express": "latest"
+  }
+}
